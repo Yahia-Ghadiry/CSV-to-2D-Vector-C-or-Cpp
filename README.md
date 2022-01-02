@@ -5,3 +5,4 @@ I have used some of the code from this blog : https://www.techiedelight.com/spli
 and some from stack overflow
 
 Ok I think I am done but wanted to put example maybe next week
+I am not a professional so ther is probably many inefficiencies in my code
