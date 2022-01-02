@@ -6,3 +6,14 @@ and some from stack overflow
 
 Ok I think I am done but wanted to put example maybe next week
 I am not a professional so ther is probably many inefficiencies in my code
+
+don't foreget to add these in your code :
+
+#include <iostream>
+#include <fstream>
+#include <string>
+#include <vector>
+#include <sstream>
+
+
+using std::cout, std::vector, std::string, std::ifstream;
