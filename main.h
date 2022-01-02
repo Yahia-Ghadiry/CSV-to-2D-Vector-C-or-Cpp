@@ -1,12 +1,3 @@
-#include <iostream>
-#include <fstream>
-#include <string>
-#include <vector>
-#include <sstream>
-
-
-using std::cout, std::vector, std::string, std::ifstream;
-
 void CSV_To_2D(string &file, const char delim, vector<vector<string>> &out)
 {
     ifstream csv_f(file);
