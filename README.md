@@ -4,4 +4,4 @@ function to read csv data into a 2d materx for easy manuplation
 I have used some of the code from this blog : https://www.techiedelight.com/split-string-cpp-using-delimiter/ 
 and some from stack overflow
 
-I am not done when I am I will commit it but this works for now.
+Ok I think I am done but wanted to put example maybe next week
