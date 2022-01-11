@@ -22,3 +22,12 @@ void CSV_To_2D(const string &file, const char delim, vector<vector<string>> &out
         out.push_back(temp);
     }
 }
+
+void select_Column(vector<vector<string>> &in, const int rowN ,vector<string> &out)
+{
+    for (auto elemnt : in)
+    {
+        out.push_back(elemnt[rowN]);
+    }
+}
+ 
