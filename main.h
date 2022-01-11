@@ -1,4 +1,4 @@
-void CSV_To_2D(string &file, const char delim, vector<vector<string>> &out)
+void CSV_To_2D(const string &file, const char delim, vector<vector<string>> &out)
 {
     ifstream csv_f(file);
     vector<string> rows;
